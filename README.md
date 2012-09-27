@@ -1,6 +1,6 @@
 Make items sticky as you scroll, to a point. ([See Demo](http://davist11.github.com/jQuery-Stickem/))
 
-Adapted from ([Trevor Davis' jQuery Stickem](https://github.com/davist11/jQuery-Stickem)) to add a responsive option for non-jumping sticky headers.
+Adapted from [Trevor Davis' jQuery Stickem](https://github.com/davist11/jQuery-Stickem) to add a responsive option for non-jumping sticky headers.
 
 ## Usage
 
