@@ -1,5 +1,7 @@
 Make items sticky as you scroll, to a point. ([See Demo](http://davist11.github.com/jQuery-Stickem/))
 
+Adapted from ([Trevor Davis' jQuery Stickem](https://github.com/davist11/jQuery-Stickem)) to add a responsive option for non-jumping sticky headers.
+
 ## Usage
 
 <pre>&lt;div class="container">
@@ -51,6 +53,9 @@ Do you already have a fixed horizontal header on the page? Offset stick 'em by t
 
 **start: 0**<br>
 If your sticky item isn't at the top of the container, tell it where it should start being sticky.
+
+**replaceHeight: false**<br>
+If your sticky item is a header at the top of a container, and you can't use offset because it's variable height or may line wrap, set this to true.
 
 ### Destroying
 
